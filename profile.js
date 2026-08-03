@@ -66,7 +66,7 @@ rpubs: [
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "My Project will focus on investigating genes that are overexpressed in a cancer type and identifying if the current treatments target those genes.",
     url: ""
   },
 
