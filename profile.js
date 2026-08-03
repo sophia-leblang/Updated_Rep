@@ -52,7 +52,7 @@ rpubs: [
     },
   {
       title: "TCGA Breast Cancer Gene Expression Analysis",
-      url: ""https://rpubs.com/Sophia__/1449973
+      url: "https://rpubs.com/Sophia__/1449973"
     },
 {
       title: "Breast Cancer Cell Lines",
