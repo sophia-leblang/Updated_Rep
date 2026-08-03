@@ -16,7 +16,6 @@ const studentProfile = {
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
   bio: "I enjoy spending time outdoors, like hiking, swimming and walking my dog! I also love to read and am looking forward to gaining more experience with using R",
-",
 
   /*
   Optional photo:
