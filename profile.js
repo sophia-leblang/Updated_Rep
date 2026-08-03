@@ -15,7 +15,8 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "I enjoy spending time outdoors, like hiking, swimming and walking my dog! I also love to read and am looking forward to gaining more experience with using R",
+",
 
   /*
   Optional photo:
@@ -36,14 +37,26 @@ const studentProfile = {
   To add another activity, copy one of the blocks below.
   Each block needs a title and a url.
   */
-  rpubs: [
+rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/Sophia__/1447042"
+    },
+  {
+      title: "Finding Patterns with Heatmaps",
+      url: "https://rpubs.com/Sophia__/1447041"
     },
     {
-      title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      title: "TCGA Patient Data",
+      url: "https://rpubs.com/Sophia__/Exploring_TCGA_Breast_Cancer_Clinical_Data"
+    },
+  {
+      title: "TCGA Breast Cancer Gene Expression Analysis",
+      url: ""https://rpubs.com/Sophia__/1449973
+    },
+{
+      title: "Breast Cancer Cell Lines",
+      url: "https://rpubs.com/Sophia__/"
     }
   ],
 
