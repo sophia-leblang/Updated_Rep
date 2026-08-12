@@ -66,8 +66,8 @@ rpubs: [
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "My Project will focus on investigating genes that are overexpressed in a cancer type and identifying if the current treatments target those genes.",
-    url: ""
+    description: "My Project will focus on investigating treatments to HER+ breast cancer and comparing how they work, what they are used for and how they were discovered!",
+    url: "https://docs.google.com/presentation/d/1VjnYEccGvK_TQL1xSD3MKe7oMeS_2TQF3RCcFUa_SbE/edit?usp=sharing"
   },
 
   /*
