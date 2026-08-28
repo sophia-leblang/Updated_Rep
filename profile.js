@@ -55,11 +55,11 @@ rpubs: [
     },
 {
       title: "Week 4: Breast Cancer Cell Lines and Genomic Data",
-      url: "https://dream-high-rstudio.org/files/DREAM-High_2026/Week4_Cancer_Cell_Lines/DREAM-High_Breast_Cancer_Cell_Lines_Sophia.html"
+      url: "https://rpubs.com/Sophia__/wk4"
     },
    {
       title: "Week 5: Advanced Computational Biology",
-      url: ""
+      url: "https://rpubs.com/Sophia__/wk5"
     },
   ],
 
