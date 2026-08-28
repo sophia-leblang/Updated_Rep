@@ -9,7 +9,7 @@ body {
 }
 
 .hero {
-  background: linear-gradient(135deg, #123c69, #2a6f97);
+  background: linear-gradient(135deg, #2927AF, #3b8c8c);
   color: white;
   padding: 60px 20px;
 }
@@ -47,7 +47,7 @@ h1 {
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
-  border: 5px solid rgba(255,255,255,0.9);
+  border: 1px solid rgba(255,255,255,0.9);
   background: white;
 }
 
@@ -91,7 +91,7 @@ h3 {
 
 .button-link {
   display: inline-block;
-  background: #123c69;
+  background: #2927AF;
   color: white;
   padding: 10px 16px;
   border-radius: 8px;
@@ -99,17 +99,17 @@ h3 {
   font-weight: 600;
 }
 
-.button-link:hover { background: #2a6f97; }
+.button-link:hover { background: #3baaad; }
 
 .empty {
-  color: #6b7280;
+  color: #6b8080;
   font-style: italic;
 }
 
 footer {
   text-align: center;
   padding: 25px;
-  color: #6b7280;
+  color: #6b8080;
   font-size: 0.95rem;
 }
 
