@@ -38,25 +38,29 @@ const studentProfile = {
   */
 rpubs: [
     {
-      title: "Introduction to R",
+      title: "Week 0: Introduction to R",
       url: "https://rpubs.com/Sophia__/1447042"
     },
   {
-      title: "Finding Patterns with Heatmaps",
+      title: "Week 1: Finding Patterns with Heatmaps",
       url: "https://rpubs.com/Sophia__/1447041"
     },
     {
-      title: "TCGA Patient Data",
+      title: "Week 2: TCGA Patient Data",
       url: "https://rpubs.com/Sophia__/Exploring_TCGA_Breast_Cancer_Clinical_Data"
     },
   {
-      title: "TCGA Breast Cancer Gene Expression Analysis",
+      title: "Week 3: TCGA Breast Cancer Gene Expression Analysis",
       url: "https://rpubs.com/Sophia__/1449973"
     },
 {
-      title: "Breast Cancer Cell Lines",
-      url: "https://rpubs.com/Sophia__/"
-    }
+      title: "Week 4: Breast Cancer Cell Lines and Genomic Data",
+      url: "https://dream-high-rstudio.org/files/DREAM-High_2026/Week4_Cancer_Cell_Lines/DREAM-High_Breast_Cancer_Cell_Lines_Sophia.html"
+    },
+   {
+      title: "Week 5: Advanced Computational Biology",
+      url: ""
+    },
   ],
 
   /*
