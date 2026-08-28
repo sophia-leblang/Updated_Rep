@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "I enjoy spending time outdoors, such as hiking, swimming and walking my dog! I also love to read and am looking forward to gaining more experience with using R",
+  bio: "My name is Sophia, and I am a 2026 DREAM-High Scholar! I am very interested in topics such as oncology, genetics, and neuroscience. With DREAM-high I hope to strengthen my computational biology skills and look forward to gaining more hands-on experience analyzing clinical data. Outside of science, I love spending time outdoors, such as hiking, swimming and walking my dog!",
 
   /*
   Optional photo:
